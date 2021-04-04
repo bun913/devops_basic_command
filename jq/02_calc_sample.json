@@ -1,0 +1,27 @@
+[
+  {
+    "item": "パン1",
+    "price": 100,
+    "now_sale": true
+  },
+  {
+    "item": "パン2",
+    "price": 200,
+    "now_sale": true
+  },
+  {
+    "item": "パン3",
+    "price": 300,
+    "now_sale": false
+  },
+  {
+    "item": "米とパンの協奏曲",
+    "price": 1300,
+    "now_sale": true 
+  },
+  {
+    "item": "米とパンの協奏曲",
+    "price": 1000,
+    "now_sale": true
+  }
+]
